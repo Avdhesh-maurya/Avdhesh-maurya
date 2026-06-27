@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">💻 Avdhesh kumar</h1>
-<h3 align="center">🚀 Python & Django Developer | Web Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀 Python & Django Developer | Data Analyst | Web Enthusiast | Problem Solver</h3>
 
 ---
 
